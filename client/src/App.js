@@ -100,7 +100,7 @@ function App() {
                   onToggle={toggleReminder}
                 />
               ) : (
-                "Nenhuma tarefa nesse momento"
+                "There is no event yet"
               )}
             </>
           )}
